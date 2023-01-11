@@ -1,5 +1,6 @@
-# Jeu_Snake
-Ce projet consiste à la programmation d'un jeu de snake en python.
+# Jeu du snake
+
+
 
 ## Prérequis & Installation 
 
@@ -38,7 +39,6 @@ Pour utiliser ce projet, vous avez besoin de :
 
 #### redéfinir_boule(self, window_width, window_heigth, boule=None):
         Permet de redéfinir l'objet boule à une nouvelle position quand on le souhaite. Elle est utilisée pour redéfinir les boules coïncident avec le snake de sortes qu'aucune boule n'est aperçu sur le snake.
-
 
 ### Classe Boule
 
@@ -93,6 +93,7 @@ Ouvrez un terminal et naviguez jusqu'au répertoire du projet.
 Utilisez la commande python `main.py` pour lancer le jeu.
 Utilisez la commande `python -m pytest` pour exécuter l'ensemble des test
 
+<img src="image.jpg" width="500" height="150" />
 ## Crédits
 
 Membres de l'équipe projet:
@@ -105,5 +106,3 @@ Membres de l'équipe projet:
 ## License
 
 Informations sur la license du projet.
-
-En cas de besoin vous pouvez consulter un memento sur les syntax markdown via ce [lien](https://github.com/nirae/Memento-Syntax-Markdown/blob/master/memo.md)
